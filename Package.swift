@@ -17,7 +17,6 @@ let package = Package(
             name: "SwiftTrain",
             targets: ["AppModule"],
             bundleIdentifier: "com.SwiftTrain",
-            teamIdentifier: "",
             displayVersion: "1.0",
             bundleVersion: "1",
             iconAssetName: "AppIcon",
